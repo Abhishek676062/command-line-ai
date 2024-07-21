@@ -38,7 +38,7 @@ Pull the Qwen2 0.5B model:
 ## 📖 Usage
 Summarize from a file:
    ```bash
-   python summarizer.py -t path/to/your/file.txt
+   python summarizer.py -t book.txt
 ```
 Summarize direct input:
    ```bash
